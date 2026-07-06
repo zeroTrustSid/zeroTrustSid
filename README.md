@@ -2,7 +2,7 @@
 <h3 align="center">Senior Security Analyst | Application Security · DevSecOps · Cloud Security</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/siddarameshwar-cism-3b5246240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/siddarameshwar-cism-3b5246240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=flat" />
   <img src="https://img.shields.io/badge/Experience-11.5%2B%20years-blue?style=flat" />
 </p>
